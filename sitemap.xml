@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+  <url>
+    <loc>https://www.celiafalcaoadvogada.ag5agencia.site/</loc>
+    <lastmod>2026-02-10</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+
+    <!-- Imagens principais do site -->
+    <image:image>
+      <image:loc>https://storage.googleapis.com/msgsndr/7hzaWcGgawCV1WudlwA7/media/698a9a98a41b870f862ec394.svg</image:loc>
+      <image:title>Dra. Célia Falcão - Logo</image:title>
+      <image:caption>Advocacia Especializada em Direito Militar</image:caption>
+    </image:image>
+
+    <image:image>
+      <image:loc>https://storage.googleapis.com/msgsndr/7hzaWcGgawCV1WudlwA7/media/698b4aee52c9525c2bb324cd.svg</image:loc>
+      <image:title>Dra. Célia Falcão - Advogada Especialista em Direito Militar</image:title>
+      <image:caption>Advogada com 9 anos de experiência em Direito Militar no Rio de Janeiro</image:caption>
+    </image:image>
+
+    <image:image>
+      <image:loc>https://storage.googleapis.com/msgsndr/7hzaWcGgawCV1WudlwA7/media/698aa1df7f6dcf37e9a48b28.svg</image:loc>
+      <image:title>Dra. Célia Falcão - Perfil Profissional</image:title>
+      <image:caption>Especialista em habilitação de pensionistas e revisão de benefícios militares</image:caption>
+    </image:image>
+
+    <image:image>
+      <image:loc>https://storage.googleapis.com/msgsndr/7hzaWcGgawCV1WudlwA7/media/698b870e86821555a368c3e3.webp</image:loc>
+      <image:title>Conquista Jurídica - Direito Militar</image:title>
+      <image:caption>Proteção jurídica para pensionistas das Forças Armadas</image:caption>
+    </image:image>
+  </url>
+</urlset>

@@ -1,0 +1,22 @@
+User-agent: *
+Allow: /
+Sitemap: https://www.celiafalcaoadvogada.ag5agencia.site/sitemap.xml
+
+User-agent: Googlebot
+Allow: /
+
+User-agent: Googlebot-Image
+Allow: /
+
+User-agent: Bingbot
+Allow: /
+
+# Bloquear bots indesejados
+User-agent: AhrefsBot
+Disallow: /
+
+User-agent: SemrushBot
+Disallow: /
+
+User-agent: DotBot
+Disallow: /
